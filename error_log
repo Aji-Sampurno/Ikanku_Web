@@ -1,0 +1,1 @@
+[26-Jun-2022 17:58:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare M_Penjual::getPendapatan() in /home/jualika3/public_html/application/models/M_Penjual.php on line 233
